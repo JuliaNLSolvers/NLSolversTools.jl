@@ -1,5 +1,6 @@
 module NLSolversTools
 
-# package code goes here
+using NLSolversBase
+include("objective_types.jl")
 
 end # module
